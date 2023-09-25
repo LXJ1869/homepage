@@ -13,7 +13,7 @@ const Platform_List: PlatformItem[] = [
   {
     title: '微信公众号',
     Svg: require('@site/static/img/wechat.svg').default,
-    url: '/img/wechat.png',
+    url: 'http://weixin.qq.com/r/ZxHG3oXEz9iwrcG990R1',
     description: (
       <>   
       wx
