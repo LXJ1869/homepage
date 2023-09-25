@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liuxinji.com.cn/blog</id>
+    <title>刘信记饼业 Blog</title>
+    <updated>2023-09-25T16:01:40.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liuxinji.com.cn/blog"/>
+    <subtitle>刘信记饼业 Blog</subtitle>
+    <icon>https://liuxinji.com.cn/img/favicon-64.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[欢迎访问]]></title>
+        <id>https://liuxinji.com.cn/blog/welcome</id>
+        <link href="https://liuxinji.com.cn/blog/welcome"/>
+        <updated>2023-09-25T16:01:40.000Z</updated>
+        <summary type="html"><![CDATA[欢迎访问刘信记饼业官方站点，更多优质内容编写中，敬请期待！]]></summary>
+        <content type="html"><![CDATA[<p>欢迎访问刘信记饼业官方站点，更多优质内容编写中，敬请期待！</p>]]></content>
+        <category label="测试" term="测试"/>
+    </entry>
+</feed>
