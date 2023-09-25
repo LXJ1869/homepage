@@ -1,0 +1,12 @@
+.Platforms {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.PlatformSvg {
+  display: inline-block;
+  height: 30%;
+  width: 70%;
+}
