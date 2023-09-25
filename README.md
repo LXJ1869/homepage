@@ -2,5 +2,5 @@
 
 ## 技术实现
 
-- 框架：Docusaurus by Meta Open Source
-- 部署：Vercel
+- 使用 [Docusaurus](https://docusaurus.io/) 作为框架
+- 使用 GitHub Actions 自动化部署至 GitHub Pages
